@@ -1,0 +1,14 @@
+.ReactModalPortal .ReactModal__Overlay {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal {
+  max-width: 250px;
+  background: lighten($blue-back, 10%);
+  color: $soft-white;
+  padding: $l-size;
+  text-align: center;
+  word-break: break-all;
+}
