@@ -1,7 +1,7 @@
 {
-  "name": "LearningApp",
+  "name": "boilerplate-v1",
   "version": "1.0.0",
-  "description": "Learning Node.js and React.js",
+  "description": "Node.js and React.js",
   "main": "index.js",
   "author": "Prasad Kumar M",
   "license": "Apache License 2.0",
